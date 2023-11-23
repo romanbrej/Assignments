@@ -1,0 +1,14 @@
+C:\Users\roman\Desktop\Klara\LN_Schleifen2\bin\Debug\net8.0\LN_Schleifen2.exe
+C:\Users\roman\Desktop\Klara\LN_Schleifen2\bin\Debug\net8.0\LN_Schleifen2.deps.json
+C:\Users\roman\Desktop\Klara\LN_Schleifen2\bin\Debug\net8.0\LN_Schleifen2.runtimeconfig.json
+C:\Users\roman\Desktop\Klara\LN_Schleifen2\bin\Debug\net8.0\LN_Schleifen2.dll
+C:\Users\roman\Desktop\Klara\LN_Schleifen2\bin\Debug\net8.0\LN_Schleifen2.pdb
+C:\Users\roman\Desktop\Klara\LN_Schleifen2\obj\Debug\net8.0\LN_Schleifen2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roman\Desktop\Klara\LN_Schleifen2\obj\Debug\net8.0\LN_Schleifen2.AssemblyInfoInputs.cache
+C:\Users\roman\Desktop\Klara\LN_Schleifen2\obj\Debug\net8.0\LN_Schleifen2.AssemblyInfo.cs
+C:\Users\roman\Desktop\Klara\LN_Schleifen2\obj\Debug\net8.0\LN_Schleifen2.csproj.CoreCompileInputs.cache
+C:\Users\roman\Desktop\Klara\LN_Schleifen2\obj\Debug\net8.0\LN_Schleifen2.dll
+C:\Users\roman\Desktop\Klara\LN_Schleifen2\obj\Debug\net8.0\refint\LN_Schleifen2.dll
+C:\Users\roman\Desktop\Klara\LN_Schleifen2\obj\Debug\net8.0\LN_Schleifen2.pdb
+C:\Users\roman\Desktop\Klara\LN_Schleifen2\obj\Debug\net8.0\LN_Schleifen2.genruntimeconfig.cache
+C:\Users\roman\Desktop\Klara\LN_Schleifen2\obj\Debug\net8.0\ref\LN_Schleifen2.dll
